@@ -16,3 +16,7 @@
 1. run `npm install`
 2. run `npm run dev`
 3. create `README.md`
+
+## 1. Repetition: Managing User Input with State (Two-Way-Binding)
+
+1. use `useState()` and two-way-binding in `Player.jsx`
