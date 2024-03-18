@@ -24,3 +24,7 @@
 ## 2. Introducing Refs: Connecting & Accessing HTML Elements via Refs
 
 1. replace `useState()` with `useRef()` in `Player.jsx` because it is more convenient
+
+## 3. Manipulating the DOM via Refs
+
+1. use `useRef()` to clear the input in `Player.jsx`
