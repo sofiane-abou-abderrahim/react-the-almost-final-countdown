@@ -20,3 +20,7 @@
 ## 1. Repetition: Managing User Input with State (Two-Way-Binding)
 
 1. use `useState()` and two-way-binding in `Player.jsx`
+
+## 2. Introducing Refs: Connecting & Accessing HTML Elements via Refs
+
+1. replace `useState()` with `useRef()` in `Player.jsx` because it is more convenient
