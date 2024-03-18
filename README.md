@@ -28,3 +28,8 @@
 ## 3. Manipulating the DOM via Refs
 
 1. use `useRef()` to clear the input in `Player.jsx`
+
+## 4. Adding Challenges to the Demo Project
+
+1. create `TimerChallenge.jsx` component
+2. output `<TimerChallenge />` components in `App.jsx`
