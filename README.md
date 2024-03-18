@@ -33,3 +33,8 @@
 
 1. create `TimerChallenge.jsx` component
 2. output `<TimerChallenge />` components in `App.jsx`
+
+## 5. Setting Timers & Managing State
+
+1. use `useState()` to set a timer in `TimerChallenge.jsx`
+2. render UI dynamically
