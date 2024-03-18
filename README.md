@@ -38,3 +38,7 @@
 
 1. use `useState()` to set a timer in `TimerChallenge.jsx`
 2. render UI dynamically
+
+## 6. Using Refs for More Than "DOM Element Connections"
+
+1. use `useRef()` in `TimerChallenge.jsx` to store the `timer` value without resetting it when the component is reexecuted
