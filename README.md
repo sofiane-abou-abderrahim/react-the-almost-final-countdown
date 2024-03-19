@@ -42,3 +42,8 @@
 ## 6. Using Refs for More Than "DOM Element Connections"
 
 1. use `useRef()` in `TimerChallenge.jsx` to store the `timer` value without resetting it when the component is reexecuted
+
+## 7. Adding a Modal Component
+
+1. create `ResultModal.jsx` component
+2. output the `<ResultModal />` component in `TimerChallenge.jsx`
