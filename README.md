@@ -47,3 +47,9 @@
 
 1. create `ResultModal.jsx` component
 2. output the `<ResultModal />` component in `TimerChallenge.jsx`
+
+## 8. Forwarding Refs to Custom Components
+
+1. reach out the dialog in `ResultModal` from `TimerChallenge.jsx` with help of `useRef()`
+2. forward the ref defined in `TimerChallenge.jsx` to the dialog element in `ResultModal.jsx` with help of the `forwardRef` function
+3. use this dialog in `TimerChallenge.jsx`
