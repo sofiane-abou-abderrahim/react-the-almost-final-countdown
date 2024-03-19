@@ -53,3 +53,7 @@
 1. reach out the dialog in `ResultModal` from `TimerChallenge.jsx` with help of `useRef()`
 2. forward the ref defined in `TimerChallenge.jsx` to the dialog element in `ResultModal.jsx` with help of the `forwardRef` function
 3. use this dialog in `TimerChallenge.jsx`
+
+## 9. Exposing Component APIs via the useImperativeHandle Hook
+
+1. detach the `TimerChallenge.jsx` component from the `dialog` element from the ``ResultModal.jsx` component with help of `useImperativeHandle()`
