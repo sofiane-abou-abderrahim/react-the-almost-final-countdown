@@ -69,3 +69,8 @@
 2. use the `remainingTime` prop to calculate the score or find out if the user lost in `ResultModal.jsx`
 3. add a `handleReset` function to reset the remaining time correctly
 4. trigger the `handleReset()` function through a `onReset` prop from `ResultModal.jsx`
+
+## 12. Enhancing the Demo App "Result Modal"
+
+1. calculate the score in `ResultModal.jsx`
+2. output the score dynamically
