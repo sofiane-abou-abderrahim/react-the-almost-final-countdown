@@ -78,3 +78,8 @@
 ## 13. Closing the Modal via the ESC (Escape) Key
 
 1. add the built-in `onClose` prop to the `<dialog>` element and bind it to the `onReset` prop value
+
+## 14. Introducing & Understanding "Portals"
+
+1. use the `createPortal()` function imported from `react-dom` on the `<dialog>` element in `ResultModal.jsx`
+2. attach the modal to the `<div>` with an `id` of `modal` in `index.html`
