@@ -62,3 +62,10 @@
 
 1. measure how much time is left on an ongoing basis with `setInterval()` instead of `setTimeout` in `TimerChallenge.jsx`
 2. use `clearInterval()` instead of `clearTimeout()`
+
+## 11. Sharing State Across Components
+
+1. forward the correct information to the modal by replacing the `result` prop with the `remainingTime` prop
+2. use the `remainingTime` prop to calculate the score or find out if the user lost in `ResultModal.jsx`
+3. add a `handleReset` function to reset the remaining time correctly
+4. trigger the `handleReset()` function through a `onReset` prop from `ResultModal.jsx`
