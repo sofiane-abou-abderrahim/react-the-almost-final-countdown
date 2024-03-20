@@ -57,3 +57,8 @@
 ## 9. Exposing Component APIs via the useImperativeHandle Hook
 
 1. detach the `TimerChallenge.jsx` component from the `dialog` element from the ``ResultModal.jsx` component with help of `useImperativeHandle()`
+
+## 10. More Examples: When To Use Refs & State
+
+1. measure how much time is left on an ongoing basis with `setInterval()` instead of `setTimeout` in `TimerChallenge.jsx`
+2. use `clearInterval()` instead of `clearTimeout()`
