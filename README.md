@@ -74,3 +74,7 @@
 
 1. calculate the score in `ResultModal.jsx`
 2. output the score dynamically
+
+## 13. Closing the Modal via the ESC (Escape) Key
+
+1. add the built-in `onClose` prop to the `<dialog>` element and bind it to the `onReset` prop value
